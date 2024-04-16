@@ -1,5 +1,16 @@
 ### Hi there 👋
 🔭 I’m currently working on AI/ML and IoT
+- 👀 I’m interested in AI/ML and SOFTWARE DEVELOPMENT 
+- 💞️ I’m looking to collaborate on ANY DEVELOPMENT PROJECTS
+- 🧑‍💻 Tech I work on :
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="50"/>
+      
+
+- 📫 How to reach me @pradhyumna.dev@gmail.com
+- 🧑‍💻 Leetcode Profie:<a href="https://leetcode.com/prad-max/">
 <!--
 **pradhyumna2003/pradhyumna2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
