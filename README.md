@@ -10,7 +10,7 @@
       
 
 - 📫 How to reach me @pradhyumna.dev@gmail.com
-- 🧑‍💻 Leetcode Profie:<a href="https://leetcode.com/prad-max/">
+- 🧑‍💻 Leetcode Profie:<a href="https://leetcode.com/prad-max/">PRADHYUMNA</a>
 <!--
 **pradhyumna2003/pradhyumna2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
