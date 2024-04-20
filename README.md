@@ -11,8 +11,12 @@
 
 - 📫 How to reach me @pradhyumna.dev@gmail.com
 - 🧑‍💻 Leetcode Profie:<a href="https://leetcode.com/prad-max/">PRADHYUMNA</a>
-  <br> 
+
+
 [![Pradhyumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradhyumna2003)](https://github.com/pradhyumna2003/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pradhyumna2003/pradhyumna2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
